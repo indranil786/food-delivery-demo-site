@@ -1,0 +1,112 @@
+
+
+#navbar{
+flex-direction: column;
+
+}
+
+#navbar ul{
+padding-bottom: 20px;
+margin: auto 1px;
+
+}
+.items{
+    font-size: 15px;
+    margin: 0px 2px;
+
+}
+.items a{
+    margin: auto -5px;
+}
+#home{
+
+height: 520px;
+padding: 20px 20px 0px;
+}
+.logoimg{
+    height: 50px;
+  width: 50px;
+}
+#home h1{
+    font-size: 38px;
+}
+#home::before{
+    height: 600px;
+    padding-top: 200px;
+    
+}
+.btn{
+    font-size: 11px;
+
+}
+#services-container .h-primary{
+    padding-top: 30px;
+    ;
+}
+.services{
+
+ flex-direction: column;
+ align-items: center;
+ 
+
+ 
+}
+.box{
+    width: 70%;
+    height: auto;
+    
+}
+#client{
+ flex-wrap: wrap;
+}
+#client::before{
+    height: auto;
+}
+.h-primary{
+    font-size: 40px;
+}
+.client-item img{
+
+    height: 70px;
+    width: 160px;
+    margin: 20px 20px;
+    
+        
+}
+ #zomato{
+        height: 70px;
+        width: 70px;
+        border-radius: 20px;
+    }
+    #swiggy{
+        height: 90px;
+        width: 80px;
+        margin: 0px -1px auto;
+    }
+    #uber{
+        height: 80px;
+        width: 100px;
+        margin-left: 10px;
+        margin-top: 5px;
+    }
+
+.contact:before{
+    height: auto;
+    
+}
+.contact-box form {
+    width:60%;
+    margin-top: 10px;
+    
+}
+
+.contact-box form .submit{
+    width: 30%;
+    padding : auto 3px;
+    font-size: 15px;
+}
+footer{
+    font-size: 12px;
+
+    
+}
